@@ -1,0 +1,2 @@
+@MarkGuzman shadow mode is still enabled on the FDSD nodes.
+Before re-enableing elsewhere, I would like to better understand the failure scenarios and the A to B site failover.

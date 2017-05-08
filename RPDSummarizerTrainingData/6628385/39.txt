@@ -1,0 +1,2 @@
+@LisaKnoll - Unfortunately, no.
+Would it be possible to get a list with CRM Ids instead?

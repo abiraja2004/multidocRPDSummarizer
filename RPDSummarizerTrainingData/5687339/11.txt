@@ -1,0 +1,2 @@
+Try FDSA07/FDSA08 now.
+My prior attetmpt failed to turn off auds shadow mode - it should be off now.

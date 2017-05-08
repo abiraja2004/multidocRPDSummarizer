@@ -1,0 +1,18 @@
+import os.path
+from summarizer import Summarizer
+import document
+dirs = [d for d in os.listdir('data') if os.path.isdir(os.path.join('data', d))]
+for directory in dirs:
+	print "current dir "+directory
+	path = './data/' + directory + '/'
+	num_files = sum(os.path.isfile(os.path.join(path, f)) for f in os.listdir(path))
+	print "num of files "+ str(num_files)
+	s = Summarizer()
+	print("Adding docs")
+	s.setDocuments([document.Document('data/'+directory+'/' + str(i) + '.txt')
+	       for i in range(1,num_files)])
+	print("summarizing")
+	s.summarize()
+	print(s.summary)
+	with open("data/"+directory+"/summary_"+ directory +".txt", "w") as text_file:
+	    text_file.write("{0}".format(s.summary))

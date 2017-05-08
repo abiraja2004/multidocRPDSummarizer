@@ -1,0 +1,7 @@
+Good day, We have a similar request / suggestion like this one but it was resolved and pointed to this RPD.
+http://is.factset.com/rpd/summary.aspx?messageid=26734059 Per our experience, end users will just keep on updating the RPD without checking the solution first and it is getting out of hand.
+Also we noticed that the page takes time to load probably because of the updates.
+Reference RPDs RPD:27349603 Our suggestion was to create a popup window to stop user from updating the RPD and check the solution first.
+One good example, is when we type the word "password" on the RPD we get that pop up message.
+Hope we can integrate the same.
+Thanks - Karl -

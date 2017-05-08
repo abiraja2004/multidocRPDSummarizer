@@ -1,0 +1,6 @@
+I forgot to verify that super_client/super_client_root logicals *are* properly being set [automatically] through the Morph command-line script.
+SUP however will require changes.
+I'll go ahead and mirror the functionality with the client support portal.
+Both locations will require automatic secure access requesting.
+More to come.
+Super_client test VA B27 S7:[DTRAN]$ morph ssg_advisors 337379 "Testing morph super_client changes" "SUPER_CLIENT" = "SUPER_CLIENT_ROOT:[000000]" (LNM$JOB_98723CC0) "SUPER_CLIENT_ROOT" = "DISK$CLIENTBD:[FDS0.SSG_SC.]" (LNM$JOB_98723CC0) This procedure will execute the special commands that would be seen by a client process Serial Number Executing commands for SSG_ADVISORS serial number: 337379 * $ @BETA_EXE:LOGICAL_OVERRIDE.COM "PA_UNIVERSE_IMPL" "BETA_EXE:PA_UNIVERSE_IMPL_03062012.EXE" !I:5896597 Finished validation for serial number: 337379

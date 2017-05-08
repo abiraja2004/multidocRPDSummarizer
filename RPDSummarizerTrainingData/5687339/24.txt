@@ -1,0 +1,14 @@
+@DemetryZilberg , @GregJordan , @SeanBattis and I just met regarding our failure scenarios and site failover.
+The primary concern is that shadow mode can cause a long delay if there is a failure on the server side.
+The client itself has retries, redundancy and failover but those actually help to cause this problem.
+We want shadow mode to have no impact to the end user even if it is facing a major failure.
+Toward this end I'll be doing the following: Lower the Session retry timeout when shadow mode is enabled.
+Remove pool members that have reported errors from a client's connection pool for some period of time.
+Test a few failure modes from the client side: Auds server hanging when a tcp/ip connection is established.
+No auds servers available.
+Auds servers advertised but non-responsive.
+Migrate our monitoring/dashboard to audsadma01 when it's been rebuilt by unix team.
+Demetry will be working with @JerryUanino to get us a physical audsdev box.
+This is expected to take a couple of weeks and is seen as a prerequisite for client shadow mode testing.
+Greg will re-enable shadow mode on fdsc.
+Once the failure mode testing is complete we will be resuming fdsa devel/inhouse testing.

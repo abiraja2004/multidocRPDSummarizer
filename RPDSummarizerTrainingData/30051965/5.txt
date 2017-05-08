@@ -1,0 +1,3 @@
+@AvanthiRentala What the user chooses for browser version (chrome, firefox) doesn't matter now.
+Then we need to update the BrowserVersions.json file for FPE since the versions there for different browsers are not the latest ones.
+Lilun

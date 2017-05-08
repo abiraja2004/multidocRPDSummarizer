@@ -1,0 +1,5 @@
+Hi Mark, Mike.
+et al We can't post the message to a specific list of clients (this feature is being worked on right now).
+The best bet would be to post a client message to the Portfolio Analysis list - we can CACCESS this message if needed.
+@CristinaFlores will work on the client message for you.
+Bridie

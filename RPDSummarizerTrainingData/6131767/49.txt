@@ -1,0 +1,2 @@
+@MiguelReyes this issue was DS_EXPECTED_MATURITY not being a field in the benchmark databases.
+This is being addressed here: http://is.factset.com/RPD/Summary.aspx?messageId=30598994 Let's follow up here next week Best, Dan

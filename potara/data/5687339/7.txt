@@ -1,0 +1,5 @@
+Looking into this with Ed and Pavel.
+The problem seems to be spreading to around fdsa.
+fdsa7, fdsa8 is having the same hanging issue, but other nodes seems fine.
+Checking pricing update scheule, and installed image versions to see if there is any dicrepencies here.
+In cases that hangs, I'm getting a result back, before the image hangs.

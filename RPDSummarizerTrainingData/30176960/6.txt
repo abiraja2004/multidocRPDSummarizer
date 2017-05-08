@@ -1,0 +1,7 @@
+Hi @ShivaKumariMandala I did some testing and found that if the script was running against the node on Windows Server 2008 for dev, the max resolution that could be reached there was 1928x1088 by default in case the following statement was used in the script: wd.driver.manage.window.maximize But if the script was running against the node on Windows Server 2012 for dev, the max resolution that could be reached was 1040x784 by default.
+Also we don't have any node configuration option to set any default resolution on any node.
+We can only set the physical display resolution to 1920x1200.
+So I am going to do some research to see whether we can improve the browser resolution for the nodes on Windows Server 2012.
+Right now we have two node machines for dev and prod respectively: one node machine on Windows Server 2008 and another one on Windows Server 2012.
+The hub uses some algorithms to redirect the requests to the nodes on 2008 and 2012, so the scripts may be running with different browser resolutions each time.
+-Lilun

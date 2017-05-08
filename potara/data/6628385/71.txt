@@ -1,0 +1,7 @@
+Finally got a working list here.
+We took Mark's final doc scan from the 27th, removed duplicates (1455 records remain), then used list builder to download the entire universe of IDs in fdsCRM and ran a VLOOKUP on the Serial Numbers to bring in the fdsCRM ID.
+Once we got the fdsCRM ID, we used Client Central formulas to bring in the user's name, phone number, PA Specialist, consultant (the consultant field in the original file was way out of date).
+There are likely cancelled serial numbers in this list too, but the consultant and PA Specialist will just have to use what they know about the accounts to realize whether or not they need to contact any particular user.
+Huge thanks to @DrewSwanson and @ErinHenry for spending many hours on figuring this out yesterday.
+Unfortunately, the attachment feature in RPD is not working right now so I cannot attach the file.
+Will try again later.

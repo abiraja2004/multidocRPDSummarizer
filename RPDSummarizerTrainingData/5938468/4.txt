@@ -1,0 +1,4 @@
+I've solicited feedback from others as well and it's split fairly evenly with a lot of strong points on both ends.
+I think that given that S&amp;C/helpdesk users will be morphing more often, it probably is best to automatically execute the grant_access for the super client account.
+@PrasannaVenkatesh -- that's pretty much what I had in mind, though I wasn't sure what to use as the serial for the super_client request.
+Thanks for the info/perspectives all.

@@ -1,0 +1,4 @@
+@KarlPangan - interesting idea.
+@ChrisWerner - perhaps this could leverage similar mechanism as the "archive" functionality under discussion.
+We should also discuss this general idea (a problem synopsis/solution, and or conversion from RPD to OA or other 'official' knowledgebase) in conjuction with the RPD Document Retention project and the Starmind / Agent Assist project, if that goes forward.
+Both will require the migration of knowledge from unstructured RPDs to more easily-searched, structured Q&amp;A knowledgebases, which address the issues in here as well.

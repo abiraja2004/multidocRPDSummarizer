@@ -1,0 +1,2 @@
+That seems to have fixed the issue on fdsc05.
+But still hanging on fdsa07

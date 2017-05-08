@@ -1,0 +1,11 @@
+@BryanEhrlich Unrelated, love the CCList search box change.
+As for this, I totally approve of 50k limit, it sounds like that covers the vast majority of actual human users.
+As for API users what options do we have for slow roll out?
+Ie.
+do something like the 300 where we accept 'for now' but indicate we won't in the future?
+Or is it 'ok' to just start 400ing and how do we get that approval?
+I feel this ties a bit to the lack of a File API, we're stating we won't attach or create files for you but you shouldn't dump logs in our system.
+@BryanEhrlich @RobertGroce Thoughts on how we should proceed here?
+As for human users, it's pretty easy to detect when the limit is hit, QAI does this and limits comments to 4000 chars.
+In QAI, if a paste occurs that would push paste 4000 we prevent it and state to paste less, but I'm wondering for human users can we build an ER to detect the overly large paste and prompt "This paste is too large, would you like to attach it as a text file?".
+We could ship the already capture paste text to fileStore as a text file fairly easily and that would make it easy for Users to still do things like this: http://is.factset.com/rpd/Summary.aspx?messageId=09-31670

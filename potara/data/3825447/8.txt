@@ -1,0 +1,2 @@
+Ah nice - we are adding a RPD hover with some key info (title, author, status, etc) - we could certainly add any comments that were tagged with "Solution" in that hover.
+Good idea.

@@ -1,0 +1,2 @@
+Hi @MichelleLuft - not yet.
+Example of how the existing functionality can help: if one knows the RPD product, you can sift a single RPD out of the masses produced by a query with no keywords, using that filter by panel: If one had another useful piece of data related to what one wanted to find (eg a keyword, or a person's name) then you can find SOlution tagged RPDs this way.

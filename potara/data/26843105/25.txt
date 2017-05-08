@@ -1,0 +1,4 @@
+Yes, as @ShivamTiwari mentioned above, TinyMCE is adding few of its own attributes like "data-mce-style"/ "data-mce-bogus".
+All such attributes can be removed.
+However, the RPDs RPD:29826610 and RPD:29645628 are linked to .6 So, I rolled back the changes.
+This shouldn't be a problem at least for now.

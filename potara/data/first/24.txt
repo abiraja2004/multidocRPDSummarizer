@@ -1,0 +1,4 @@
+@ChrisWerner - I like that idea.
+It provides a way to see at the top of the RPD that a workaround exists, then quickly jump to it.
+Being able to tag just one comment as the workaround seems appropriate.
+Overall, I think the enhancement would be very helpful.

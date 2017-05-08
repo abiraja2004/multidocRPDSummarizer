@@ -1,0 +1,5 @@
+Hi @ShivaKumariMandala If we ran the node on the command line on tellusgridb05 (Windows Server 2012) instead of a windows service, then the larger browser resolution 1936x1176 for chrome could be reached.
+Seems running the nodes as windows services causes some limitation to the browsers on Windows Server 2012.
+Hopefully we can find a way to reach the wanted browser resolution by launching the nodes as windows services (browsers run in the background); Otherwise we have to run the nodes on the command line, but this will cause the browsers to run in the foreground.
+It may not be a good solution.
+--Lilun

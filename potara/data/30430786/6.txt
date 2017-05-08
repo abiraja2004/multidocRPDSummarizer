@@ -1,0 +1,4 @@
+A non-zero Priority seems like a valid priority, in the sense of run this, just last.
+Maybe ScheduleType ("none") makes more sense?
+The fact is that we want to test the scheduler on tellusdev, so having items schedule 'extra low' no matter what doesn't properly let us test the scheduler.
+It would be nice to see jobs sent from Atlas vs Online vs other SWPs to all be slotted properly per: http://tellus/qadocs/Scheduling%20Automation%20workflow.htm But not executed.

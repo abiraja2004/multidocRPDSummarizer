@@ -1,0 +1,1 @@
+Expected Maturity getting added to vendor pricing sources could also be picked up by Security Analysis (RPD:22676049)

@@ -1,0 +1,4 @@
+Thanks @MichelleLuft - Wouldn't the comment that is tagged with #solution be the synopsis?
+Or else how would you make the synopsis more useful?
+Forcing fielded data won't always make it better (e.g.
+not all products require FDSW version, not all solutions would have troubleshooting steps, etc).

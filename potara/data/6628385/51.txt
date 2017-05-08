@@ -1,0 +1,13 @@
+@LisaKnoll -- I've put together a modified version of the Notify message that we could use for the email.
+Please let me know what you think.
+@MichaelAltmaier - Please let me know if you think the urgency of the message is appropriate, or if I should add something to the headline to emphasize that recipients are affected (e.g., "Your Action Required:").
+Thanks!
+************ (Email draft) Subject: Change to Portfolio Analysis pricing methodology affects your reports On 26-Jul-2012, a change will be made that affects prices, returns, and other data (ex shares) in your Portfolio Analysis reports.
+The change only affects portfolios in Buy &amp; Hold mode, and has been made to allow for greater consistency among pricing sources in Portfolio Analysis.
+If you are receiving this email, it means that you have reports saved that use the affected settings.
+Currently, when you use end-of-period holdings and Client Portfolio pricing, prices and other data fields are tied to shares.
+For example, if you run a report from January 11 &ndash; January 12, the prices and shares used are from January 12 and January 13.
+After 19-Jul-2012, when you use end-of-period holdings and Client Portfolio pricing, Portfolio Analysis will not feel forward for price or other data fields (ex shares).
+For example, if you run a report from January 11 &ndash; January 12, the prices used will be from January 11 and January 12.
+This will provide more intuitive results than the current behavior.
+If you have questions about this change or would like to know which of your saved reports are affected, contact your PMW specialist or email pmw_support@factset.com.

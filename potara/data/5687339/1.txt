@@ -1,0 +1,2 @@
+FDSA/B seems to be fine.
+But all nodes that I have tried on FDSC (C01-C05) have the same problem.

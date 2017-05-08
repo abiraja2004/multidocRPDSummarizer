@@ -1,0 +1,4 @@
+It appears this has been in place in production for a week without issue.
+@DanTran / @PrasannaVenkatesh are there any logs somewhere that we can verify the perceived goodness?
+Can others on the CC comment on the morph experience since the code changes were put in place?
+Are SC morphs working properly?

@@ -1,0 +1,8 @@
+I hate to do this Mark - but we need "consulting team" as a column here too.
+Sales teams span all over the globe and they're certainly not taking care of this - the consulting department is.
+Apologies for not requesting this sooner.
+Situations like these make a great case for having a standard document/data ready when we make changes/retirements instead of going back and forth like this.
+Using what we have here, there are 2,268 individual users affected by this change which is quite a lot.
+Until we have consulting team though, we don't have any directive to the consulting groups to get the communication out.
+In the meantime, can we automatically add those 2,268 people to the appropriate broadcast list and send them a notification?
+That would be a good step one I think.

@@ -1,0 +1,7 @@
+@LilunCao This sounds fine to me, but if it doesn't end up cronned, how can we know the result of the scheduling?
+It will still exist as a groupId or instanceId that we can verify using the API?
+Otherwise, should we just create a completely seperate end-point for this that could return the result of the scheduling?
+Ie.
+after sending these requests, that is 1100 Cases worth of jobs, chunked by Environment and Product, so maybe 100 requests, we would want to verify the scheduled start date and priority values supplied to each job.
+So QAI can either query a 2nd time each job or maybe we have an end-point that returns this?
+If an end-point we could keep it on tellusdev only.

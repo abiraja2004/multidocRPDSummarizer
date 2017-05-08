@@ -1,0 +1,1 @@
+As an FYI, you can currently search on tags in the search page by using the following syntax: tag:Solution The tag name is case sensitive, so tag:solution returns no results where tag:Solution does

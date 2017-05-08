@@ -1,0 +1,4 @@
+Hi @AngelaYacovelli I will download chrome 55 and 56, and do some testing on my pc.
+Then I will add them to the selenium grid.
+I will also update the browser version file for FPE.
+Lilun

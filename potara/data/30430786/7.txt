@@ -1,0 +1,1 @@
+@ChrisWerner If you want to test jobs with regular priority 1,2,or 3 but do not let them run, then it makes sense to create a new field like ScheduleType and set it to "none".

@@ -1,0 +1,8 @@
+Hi All, Thanks for the discussion on this.
+Michelle in her last comment highlights my initial thoughts behind this.
+In a large portion of helpdesk calls, if it is necessary to search within RPD's, many times I'll find the exact RPD I need within seconds, but it may take me another 5-10 minutes just to try and sift through all the comments and try out different workarounds/solutions for the initial problem.
+I think adding a comment that can be flagged (preferably color-coded so it can be seen in a long list), and contain a solution will drastically improve client service time.
+I also think it is a great idea to include a synopsis, because it is a very common occurence that the initial RPD creator describes a situation which is irrelavant to the actual issue at hand, mostly because of misinterpretations/assumptions.
+Having an easy to find synopsis and solution could essentially eliminate the need for the intermittent comments once an RPD is closed.
+The conversation is very important during the solution-finding phase, but afterwards, RPD's are more essential as a database of answers, so adding this could "limit the bulk," and help all departments find what they need more efficiently/accurately.
+Thanks, Brandon

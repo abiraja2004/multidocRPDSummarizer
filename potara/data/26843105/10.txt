@@ -1,0 +1,5 @@
+@BryanEhrlich @ShivamTiwari Maybe an option if we keep accepting larger for a while anyway is to email the owner EVERY SINGLE OCCURENCE.
+Of course they'll just send to spam, but I feel between this and your API user distribution list after some reasonable period we can move ahead.
+@RobertGroce We have been told that some teams have a 9 month lead time, but that feels unreasonable to me, do you think giving 3 months warning of upcoming breaking changes is enough / makes sense / thoughts?
+@TonyPiazza You deal with wanting to make breaking changes and legacy users a lot, do you have a specific policy/thought?
+Maybe we can come up with a IS standard?

@@ -1,0 +1,4 @@
+A small correction to Bridie's last post: The document scan was for all documents that are using End-of-Period Holdings and Client Portfolio pricing.
+It does not distinguish between B&amp;H, OMS, and TBR.
+This change is specific to B&amp;H so some of the documents may not actually be affected.
+I am still working on getting the email addresses in the scan file.

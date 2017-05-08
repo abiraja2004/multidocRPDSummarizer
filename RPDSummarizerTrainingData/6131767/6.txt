@@ -1,0 +1,2 @@
+@MarkSolis Client: LS_INV Serial: 321071 Document: Personal:Internal Reports Report: Maturity Distribution Grouping code: FLOAT(JULIAN(PMWSM_FI(CLIENT,DS_EXPECTED_MATURITY))-JULIAN(INTEGER(CONVERT_DATE("#SD","YYYYMMDD"))))/365 Is it possible to add this field to the Barclays and Merrill databases for overnight calculation?
+Thanks, Chris

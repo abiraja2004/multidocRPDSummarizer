@@ -1,0 +1,2 @@
+I still believe we need to communicate this change via email, an Alert, etc.
+Client communication right now is critical.

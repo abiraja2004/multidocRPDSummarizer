@@ -1,0 +1,6 @@
+Adding to this @BryanEhrlich comment from here: http://is.factset.com/rpd/summary.aspx?messageId=23001442&amp;commentId=23004631 I think the solution of just having some 'standard' tags that will show at the top of the RPD and jump to the comment with that tag is a good solution to this.
+We would probably allow this 'Workaround' tag only on comments and allow only one per RPD ?
+We could have other tags like 'Summary'/'Retrospect'/'Synopsis', or whatever other type tags or comments are relevant to the S&amp;C workflow.
+If this becomes a standard workflow, we could also probably define a 'validity', that is, bug or incident from a client that required certain input or some other criteria and allow views built where the synopsis is not yet provided.
+Or make it required to provide before resolution?
+@BrandonNovack @RachelBattis Let me know your thoughts or I can reach out to S&amp;C at large to get additional input.

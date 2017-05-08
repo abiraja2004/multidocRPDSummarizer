@@ -1,0 +1,1 @@
+[u'fdsa7, fdsa8 is having the same hanging issue, but other nodes seems to be with fqlc.', u"run guionline hangs, i'm getting a result back, before the image hangs.", u"i 've disabled the auds shadow mode on the test nodes and fdsa07 and fdsa08.", u'To my knowledge no production jobs run on those nodes.']

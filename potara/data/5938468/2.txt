@@ -1,0 +1,3 @@
+I am going to propose the opposite point.
+If a client has a secure super_client it should automatically get access permission.
+Between portfolios, IRNs, models, formulas, screens and MSLs - one shouldn't need to know whether to request access to _SC - it is as much part of the client environment as CLIENT: Also - it is one less step in the already clutered process for the helpdesk to offer assistance to our clients in Environments.

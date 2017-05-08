@@ -1,0 +1,4 @@
+Bumping this up to Critical as this is affecting Online on at least FDSA07.
+Run gui_online hangs there.
+Although not an interactive node, there's production batch queues that this might affect.
+Escalating.

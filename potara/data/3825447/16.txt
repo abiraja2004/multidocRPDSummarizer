@@ -1,0 +1,14 @@
+Thanks Michelle and Brandon for the detailed explanation - that clarifies for me.
+What I missed is that you're looking for a Problem Synopsis, not (or rather, in addition to) a concise Solution.
+My next thoughts/questions then are 1) Why aren't assignees / product owners providing concise, eloquent solutions / synopses now when they Resolve requests, and how to motivate them to do so with an enhancement to the RPD system.
+I suspect many are engaged with the current RPD back-and-forth and not seeing it in the bigger picture of people searching for it in the future and needing a quick way to glean its important information.
+So I would think some prompt like "Please include a concise problem synopsis and solution for future readers / searchers.
+This should include any troubleshooting tips, minimum version requirements, CACCESS restrictions, or other relevant info." would help.
+We could add this to the current Resolution box prompt, but as Brandon said the solution is sometimes not at the end.
+Which brings up 2) How to encourage people to flag something as a solution/synopsis, and so the RPD system knows what to prompt when.
+Perhaps adding some standard/suggested tags (that people could click to add) below the existing "Search Tags' box in the Add Comment section would solve that.
+We could then allow filtering on these in a future iteration.
+(I.e.
+show me all the status updates / latest status update, all the questions, etc in this RPD).
+We could also flag questions as answered/unanswered, build views on that, etc.
+Do you think that would address this issue, or are you looking for something different?

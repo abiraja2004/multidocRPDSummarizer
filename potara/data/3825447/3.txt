@@ -1,0 +1,2 @@
+Something like this will also reduce spam when people unresolve RPDs by accident or with irrelavent new issues.
+As of right now, if and RPD is unresolved, there is no way to undo the unresolve.

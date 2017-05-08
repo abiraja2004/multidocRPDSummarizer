@@ -1,0 +1,3 @@
+Question about this comment by @MarkSolis : "...The document scan was for all documents that are using End-of-Period Holdings and Client Portfolio pricing.
+It does not distinguish between B&amp;H, OMS, and TBR.
+This change is specific to B&amp;H so some of the documents may not actually be affected." If this is the case, can we remove the documents that are not affected (OMS and TBR documents) so we can see an accurate list of those clients who will be affected (B&amp;H only)?

@@ -1,0 +1,17 @@
+@PAPD-Manila can you please add these columns: Make sure to test this in your personal options lock first.
+Portfolio Beginning Expected Maturity - PA_GEN_FI_COL(#PR,#SD,DS_EXPECTED_MATURITY) Portfolio Ending Expected Maturity - PA_GEN_FI_COL(#PR,#ED,DS_EXPECTED_MATURITY) Benchmark Beginning Expected Maturity - PA_GEN_FI_COL(#BN,#SD,DS_EXPECTED_MATURITY) Benchmark Ending Expected Maturity - PA_GEN_FI_COL(#BN,#ED,DS_EXPECTED_MATURITY) Step 1: Open the options lock --&gt; open PA --&gt; Contribution Report --&gt;Options --&gt; Columns --&gt; Data --&gt; New..
+You can see this in my screenshot below: Step 1 for adding columns Step 2: Copy and paste the formula from the first column into the box that says "Formula" and and type the name for it in the box called Header with the appropriate line breaks by pressing enter.
+(Port.
+Beginning (then press enter) Expected Maturity).
+Separate babelfish will need to be filed for these columns as well.
+You can see this in my screenshot below: Formula and Header Step 3: Select/fill out all appropriate options in Column Edit including: Sub Period Column (for the beginning columns, exclude this option for ending column), Allow Interquartile, MultiCurrency, Default Decimals, Formula Type, Column Access, Avail Compound, Stat,Category, and Supported Apps.
+For benchmark columns, you need to select engine statistic and weighted average for stats.
+Then go into weights and select benchmark beginning weight.
+You can then unselect weighted average so only engine statistic is highlighted.
+The category is going to be FactSet/Fixed Income/Bond Terms/Additional Calculations --&gt; and then we are going to want to create new Portfolio and Bench subfolders under here, however this needs to be done after adding the columns.
+To do so, right click on one of the new columns --&gt; Add Category --&gt; Type in Portfolio, then repeat for benchmark (once you have added one of the benchmark columns) .
+Only after adding one portfolio column and one benchmark column you can do this .
+For the next two columns you will be able to choose these subfolders as the category (in column edit).
+CACCESS is going to be 00PAF,00PPA,00PAW You can see this in my screenshot below: Column Edit Then add all new columns to a report with appropriate settings to make sure everything is populating as expected.
+You will then follow these steps for the next three columns: Portfolio Ending Expected Maturity - PA_GEN_FI_COL(#PR,#ED,DS_EXPECTED_MATURITY) Benchmark Beginning Expected Maturity - PA_GEN_FI_COL(#BN,#SD,DS_EXPECTED_MATURITY) Benchmark Ending Expected Maturity - PA_GEN_FI_COL(#BN,#ED,DS_EXPECTED_MATURITY) You can see a video explaining the process of adding GEN_FI columns here: Please note that the video above is just an example and the recorder forgot to mention how to add these columns into a category Please feel to reach out to me with any further questions Once these columns are added we will work on adding years to expected maturity.
+All the best, Dan

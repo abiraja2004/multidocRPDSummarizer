@@ -1,0 +1,2 @@
+Just noting here that no Cornerstone jobs have run on fdsa07/08.
+(Last runs were on dec 17th on these nodes)

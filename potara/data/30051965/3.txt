@@ -1,0 +1,4 @@
+Hi @AngelaYacovelli We manage the browsers in different ways in FPE and SGE.
+@VasuNakka @AvanthiRentala do you have any idea about this?
+Like if we specifiy a browser version, is it possible that it is not available in FPE?
+Lilun

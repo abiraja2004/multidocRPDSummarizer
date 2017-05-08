@@ -1,0 +1,5 @@
+Thanks PV for the due diligence and the stats.
+Basically, we should not expect a consultant to know (or care) whether they need _SC or not.
+When they morph in, they need to be in the same environment a client is - with the same permissions, access, entitlements, sources, portfolios, news, brokers, etc.
+Not giving Superclient access by default is arbitrary and will continue to cause all sorts of confusion.
+There is no scenario that I am aware of that a Consultant would NOT need superclient access.

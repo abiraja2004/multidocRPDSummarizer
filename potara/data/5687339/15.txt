@@ -1,0 +1,2 @@
+Confirmed all the ORCA Critical jobs are now looking good.
+I aborted the hung jobs.

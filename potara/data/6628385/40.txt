@@ -1,0 +1,6 @@
+@MichaelAltmaier -- Bridie mentioned before that it is actually 2,286 affected users, not 16,000.
+(The usage file shows the full list of documents affected -- so you'll see duplicate individual users listed in several rows.) @MarkSolis --how hard is it to include fdsCRM ID in the list of affected users?
+Before we decide the best way to proceed, I wanted to get a sense of whether this is possible and if so, how much time it would take to do as I know you've already had to rerun usage several times for this change.
+The ability to target specific users using Notify vs.
+the standard way of emailing users that are signed up is essentially a "beta" feature and not live yet so we weren't sure about all of the requirements needed.
+If it isn't feasible to add in fdsCRM ID, we'll adjust our game plan accordingly.

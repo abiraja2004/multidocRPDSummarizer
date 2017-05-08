@@ -1,0 +1,5 @@
+Hi Everyone, Not sure if this was the intended result, but now whenever I morph in as a client, I'm unable to access the files in their Super Client directory.
+What shows up instead are all of the files in the Super Client directory on our side.
+The only way I've found to get around this is to morph in from the VMS command prompt.
+Please let me know if I'm missing anything or if there is additional step that is now needed.
+Thanks, Adam

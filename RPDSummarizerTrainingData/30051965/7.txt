@@ -1,0 +1,4 @@
+@LilunCao @AngelaYacovelli It may not be trivial to have all the browser versions available on JEP because of the limitations we have.
+unlike in SGE we can host only one browser per a VM.
+They can be installed on the fly [ RPD:27069245 ] Saw a link online which may help but we need to look into further to evaluate the suggestions http://stackoverflow.com/questions/10541225/cross-browser-testing-all-major-browsers-on-one-machine#10541484 do some os level sanboxing NOTE: The implication of the above propsals on VM diskspace increases in the same order as listed Also, there is a dependency on drivers(used by scripts to launch a browser instance), the project archives should be forced to have multiple drivers or tellus has to provide the approprite one.
+@LilunCao please holdoff on updating the browser version file for FPE Thanks, Krishna

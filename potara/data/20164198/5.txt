@@ -1,0 +1,3 @@
+Adding some more info here: Currently we have this http://is.factset.com/core/roleprovider/group.aspx?groupId=20391 which are enabled for this feature.
+This group members are already using queue system for notifications.
+In production, I am not seeing lag in normal periods, but there is some lag when there is peak usage.

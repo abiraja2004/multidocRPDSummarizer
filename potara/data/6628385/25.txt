@@ -1,0 +1,5 @@
+@CristinaFlores - Can we remove the statement in bold.
+It is not really accurate for the following reasons: 1) There is no such thing as end-of-period pricing.
+2) The bold statement describes the theory behind end of period holdings with the corrected price fetching 3) The current behavior is a bug that was caused by setting up the client portfolio pricing source separately from the other pricing sources.
+Can we say: Currently, when you use end-of-period holdings and Client Portfolio pricing, prices and other data fields are tied to shares.
+For example, if you run a report from January 11 &ndash; January 12, the prices and shares used are from January 12 and January 13.

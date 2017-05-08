@@ -1,0 +1,5 @@
+If possible, let's go forward with a 50k limit for employees and any new Service accounts (if possible to enforce).
+Legacy services can still have the old limit for now, we will communicate the change and give them some lead time to comply before fully shutting off in 3-6 months after initial release.
+Additionally, if asked about a File API to use instead the answer is that we do not have or know of a publically consumable File/upload API that can be used programatically.
+What are the thoughts having the prompt for excessively large pastes?
+I think it's a nice to have, but curious if it's considered 'hard' or a large amount of work or any other discussion related: http://is.factset.com/rpd/summary.aspx?messageId=26843105&amp;commentId=27757169

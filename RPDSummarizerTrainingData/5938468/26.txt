@@ -1,0 +1,9 @@
+The commandline morph script has been updated and is now live across all clusters: prog_distribute output NJ C08 S4:[DTRAN.CHAMELEON.STING]$ prog_distribute morph.com Copy to FACTSET_ROOT:[FACTSET]MORPH.COM?
+[Y/N] : Y Copying to FACTSET_ROOT:[FACTSET] on local and remote nodes...
+%COPY-S-COPIED, S4:[DTRAN.CHAMELEON.STING]MORPH.COM;54 copied to FACTSET_ROOT:[FACTSET]MORPH.COM;74 (57 blocks) %COPY-S-COPIED, S4:[DTRAN.CHAMELEON.STING]MORPH.COM;54 copied to ITB01"DTRAN"::FACTSET_ROOT:[FACTSET]MORPH.COM;74 (57 blocks) %COPY-S-COPIED, S4:[DTRAN.CHAMELEON.STING]MORPH.COM;54 copied to FDSA::FACTSET_ROOT:[FACTSET]MORPH.COM;73 (57 blocks) %COPY-S-COPIED, S4:[DTRAN.CHAMELEON.STING]MORPH.COM;54 copied to FDSB::FACTSET_ROOT:[FACTSET]MORPH.COM;74 (57 blocks) Operation completed.
+Here's an example of the script in action: Integrated super_client secure access requesting NJ C08 S4:[DTRAN]$ morph fdsqar_c 341933 "Testing morph super_client changes" You do not currently have access to this secure client.
+Morphing as a client without access will cause severe problems, including possible loss of client data.
+Would you like to request access at this time?
+[Y]/N: Secure access to FDSQAR_C has been granted.
+Secure access to Super Client FDSQA_C_SC has been granted.
+This procedure will execute the special commands that would be seen by a client process Serial Number Executing commands for FDSQAR_C serial number: 341933 * $ DEFINE/JOB/NOLOG "PA_RT_USE_STATIC_XRATES" "1" !I:5907125 * $ DEFINE/JOB/NOLOG "BC_TEST_ROOT" "DISK$PRD_FORM_0:[FDS0.SCR.]" !I:4418607 * $ DEFINE/JOB/NOLOG "PA_ENABLE_LOSS_RETURNS" "1" !I:6224619 Finished validation for serial number: 341933

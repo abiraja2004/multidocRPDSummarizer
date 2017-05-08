@@ -1,0 +1,3 @@
+If all goes well this should be installed on 5/3.
+Modifications to the commandline version to follow.
+Thanks all.

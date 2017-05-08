@@ -1,0 +1,3 @@
+The problem may be AUDs.
+I've disabled the auds shadow mode on all FDSC nodes and FDSA07 and FDSA08.
+Online started on FDSC08 after I disabled auds.

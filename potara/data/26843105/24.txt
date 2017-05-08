@@ -1,0 +1,3 @@
+@AjinkyaNilkanthDhumale can you try to filter out the same attributes TinyMCE is filtering out?
+And then we can run the size check after we run the string through SafeStringProvider.
+Otherwise we need to roll back the format: raw change.

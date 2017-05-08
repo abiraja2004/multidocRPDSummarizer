@@ -1,0 +1,2 @@
+The issue seems to be with fqlc.
+I have tried a few different formulas and they all hang after returning the result: fqlc ibm "price()" fqlc 7535 "teca_dps_act(0)" fqlc 635688 "TECI_SALES_FY1R()" fqlf works fine.

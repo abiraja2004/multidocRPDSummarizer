@@ -1,0 +1,3 @@
+I think we should make the size as restrictive as we can.
+We should optimize based on human interactions, not potential dumps of logs.
+I would like to change those workflows to incorporate links to the documents rather than a copy of their content.

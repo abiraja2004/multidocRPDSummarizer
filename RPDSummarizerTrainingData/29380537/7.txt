@@ -1,0 +1,15 @@
+Hello Pooja, Thanks for fixing the requested Scenarios.
+As per my testing, Identified couple of unexpected behaviours.
+Below are the details.
+1) Name Change Date(Old Filed) is accepting Future Name Change Date.
+Expected Behaviour: It should allow only today and Older dates(Note: not older than Launch Date) but not the Future date as Already separate Button added to portmas as part Enhancement.
+Please find the below screeshot for better understanding.
+2) Future Termination Date: Expected Behaviour: It should not allow for Termination for future date if the Researcher choosen Liquidation option as Permanent or Temporary as already we have separate option for future Termination "Future".
+Below screenshots for better understand.
+Current behaviour: Able to terminate the fund for Future date by choosing Liquidation as Permanant &amp; Temporary.
+Temporary Termination - Future Date Permanent Termination - Future Date Note: If the Researcher by mistake chosen permanent with Future Date, Its terminating immedately instaed of Future Date.
+Because of this It won't reflect in product from the date of termination action done instead of Future date.
+Requesting to fix those two unexpected behaviours too!
+Thanks in advance for your help.
+Thank You!!
+Nagaraju

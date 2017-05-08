@@ -1,0 +1,3 @@
+There are a great deal of clients in the notepad, which is partially helpful but we need to add consultant, salesteam, etc.
+and put it in Excel so we can filter.
+I don't completely understand the change and how it impacts our clients, What exactly will they see differntly/what will be change and be different?

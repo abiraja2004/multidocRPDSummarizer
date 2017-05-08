@@ -1,0 +1,1 @@
+The queue reader service was stopped from 2:22PM to 3:34 PM for some reason (which we are trying to investigate).

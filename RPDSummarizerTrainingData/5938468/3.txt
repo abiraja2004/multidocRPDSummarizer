@@ -1,0 +1,4 @@
+Hi Prasanna, I second Jason's comments with respect to SUPER_CLIENT.
+I can't tell you the number of RPDs and frantic IMs I get from sales/support teams who are afraid their clients have lost IRN access because they're not familiar with secure SUPER_CLIENT directories and don't know to request access.
+It's definitely a major point of confusion at the moment.
+Thanks, Danielle

@@ -1,0 +1,2 @@
+@LilunCao It would be better to have the default resolution as 1280x1024.
+In case, any application requires specific resolution we can set it through the script.

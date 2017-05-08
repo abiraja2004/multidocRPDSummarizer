@@ -1,0 +1,2 @@
+FDSA07 just started working.
+fqlc IBM price returns correctly, and I'm able to run online.

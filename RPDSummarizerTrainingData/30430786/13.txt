@@ -1,0 +1,3 @@
+Hi @ChrisWerner Those jobs will be displayed in Calendar.
+But their cron id will be 0 since no cron jobs are created for them.
+Lilun

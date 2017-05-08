@@ -1,0 +1,27 @@
+I saw this same desire in the old RPD Usability docs.
+I think this is something we should evaluate.
+Based on the previous comment and this comment http://is.factset.com/rpd/summary.aspx?messageId=3825447&amp;commentId=4652209 I see a couple workflows we should evaluate.
+1.
+Pasting in 'error' screenshots.
+Should we change our left-hand text in Create RPD to state, please type out any error messages?
+OR should we look for Client's Affected added AND a pasted image and show an actual alert/note "Please type-out any error messages displayed in any pasted screenshots".
+I'm not sure how often images in a client found Bug or Incident are errors or not, but it seems plausible.
+2.
+'Problem synopsis' - I'm not sure how often this is really an issue or if getting the actual error message is enough.
+If it's &lt;20% that the openning message doesn't correctly describe the issue maybe just enouraging editting of the comment is enough.
+3.
+'Solution synopsis' - It seems we could require this as part of a resolution based on certain criteria (Clients on a Question or Incident, etc).
+I think the resolution comment should ideally be the solution synopsis, so it's just a matter of encouraging or forcing this.
+I think we could also support resolving using an existing comment, often the resolution ends up as just trying to change the Status when a comment already summarizes the fix, this could work like 'edit comment' and bring in the existing comment for editing but actually file a new comment when resolving.
+I think 2 and 3 combined with cleaning up the summary interface to hide the majority of comments by default would really help the majority of RPDs: http://is.factset.com/rpd/summary.aspx?messageId=1649080&amp;commentId=19264337 Example RPD http://is.factset.com/RPD/summary.aspx?messageid=4138325 4.
+'Workaround' - This I could see working similarly to the tagging proposed above and seen in the example using a 'Tag' like the 'Solution' tag.
+However we need to consider how to make this obvious and easily navigable to and we need to make it obvious as an option.
+a.
+When adding a comment on a specific type of RPD (ie.
+Question/Incident with a Client Affected), should we have a 'Workaround' option in the Add Comment box, maybe next to 'Status'?
+b.
+Should we color workarounds differently, maybe yellow?
+Then we'd have Blue for problem, Yellow for workaround, Green for resolution/final solution.
+c.
+A bit of a seperate request, can we 'jump to' tags?
+http://is.factset.com/rpd/summary.aspx?messageId=23444034 @RobertGroce @SreeDivyaBonagiri @BryanEhrlich Thoughts?

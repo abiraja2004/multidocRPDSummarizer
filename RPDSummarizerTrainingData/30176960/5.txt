@@ -1,0 +1,7 @@
+Hi @ShivaKumarMacharla What we did on the node is set the max resolution 1920x1200 for the account running the node.
+Seems the configuration for selenium node does not have any option to set the default resolution of the browser.
+https://github.com/SeleniumHQ/selenium/wiki/DesiredCapabilities Selenium is not capable of modifying the desktop resolution.
+The browser size in Selenium can be modified to match a specific resolution wanted: wd.driver.manage.window.move_to(0, 0) wd.driver.manage.window.resize_to(1280, 1024) Also the available resolution for the node running as a windows service may be lower and different from that for the node running as a desktop app on the command line on the same machine.
+Our nodes are running as windows services.
+Let me do some research about whether there is any way to set the default resolution.
+Thanks, Lilun

@@ -1,0 +1,4 @@
+Thanks @BridieSullivan - the blinking tower icon I would guess might get 5% of people to look at it - most of the time its out of your peripheral view and a lot of people think its a signal (akin to wireless or something) so I don't think they will pay much attention to it.
+Ensuring the message was sent to the 2268 users would be ideal in addition to the blinking tower message.
+@MarkSolis - could the user emails be added to the scan file?
+If so they could be pulled from there.

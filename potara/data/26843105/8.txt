@@ -1,0 +1,9 @@
+do something like the 300 where we accept 'for now' but indicate we won't in the future We did that for several features in v1 and it didn't work.
+People just updated their code to accept 300 as "success".
+If we wanted to slow rollout we could have a size override for certain accounts where we allow them to continue posting large comments until they can support some other way.
+@RaghupathiManda and I are working on backfilling a mapping of group/owner to service account so we have a good way of directly communicating for specific API issues.
+I feel this ties a bit to the lack of a File API Right, the question is do we want to allow people to store logs in RPD in any way, rather than forcing them to host their own logs elsewhere.
+My opinion is that we don't want to support storing 3rd party data in RPD in any way.
+But it is not technically infeasible.
+Let's decide this once and for all in our Monday meeting because this has come up several times @SurekhaVullekki @RobertGroce .
+If we decide to support attachments we should probably execute on that before beginning this RPD so we have a good "alternative".

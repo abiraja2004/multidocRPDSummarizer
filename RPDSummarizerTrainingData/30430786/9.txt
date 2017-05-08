@@ -1,0 +1,3 @@
+@LilunCao a new field for testing is OK.
+But the priority should be set by us to 5.
+However, the issue is verfication and removing those when done, it looks like a manual process now.

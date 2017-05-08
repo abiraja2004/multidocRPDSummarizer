@@ -1,0 +1,7 @@
+@LucyTancredi - I think re-branding the RPD resolution comment is a great idea.
+As a PD who very much wants to solve the issues we've discussed above, I can say that PDs generally do not think of the resolution comment as a place to provide a problem/solution synopsis (most of us just say "resolved" or "resolving per comments above") -- but it's a great place to do exactly that.
+Ideally we'd make adding concise problem and solutions synopses to RPDs a best practice at FactSet.
+We could add text that says something like "Please provide a concise description of both the problem and the solution so that other RPD filers can easily find this important information.
+You might choose to include relevant FDSW versions, error message text, troubleshooting tips, etc." The one concern that comes to mind is that RPDs that have the "Atlas Release" field filled in (e.g.
+2011.4A) will get automatically resolved by a script when that FDSW version is released.
+That script is really helpful, but it will mean that the RPD filer or PD will have to go back and proactively add synopses to relevant RPDs (question: is the resolution comment editable?).

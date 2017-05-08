@@ -1,0 +1,3 @@
+@BrandonNovack @MichelleLuft This is an old RPD and I wanted to reach out how much difficulty is still being found to determine the solution / synopsis of an RPD and if tagging was helpful at all.
+I will say as of right now we do color the 'openning'/requester comment blue and the resolution comment green, but I do understand that looking up incidents/bug resolutions you care more about the 'actual' problem as described by the responding rengineer and actual resolution.
+Not only do I believe we still have the case with Atlas or other processes performing resolutions but with Issue Tracker we are almost gauranteed that the Resolution comment will be something client facing and not the actual engineering resolution (although may provide a good synopsis).

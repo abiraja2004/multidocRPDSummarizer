@@ -1,0 +1,5 @@
+Dan Tran has submitted a code change (Change:1634258) which references this RPD.
+Description: Fixing an issue in the morph script that didn't properly define the super_client logicals.
+This will allow us to re-deploy the automatic secure client super_client requesting.
+Godspeed, my friend.
+RPD:5938468 RPD:6404109 Change:1624933 Change:1588607

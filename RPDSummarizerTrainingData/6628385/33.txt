@@ -1,0 +1,2 @@
+@MichaelGiordano - We are working on another scan right now.
+I was worried that the scan wouldn't work properly if documents we using multiple portfolios/benchmarks with different holdings methodologies, but I think we are going to be able to get what you are looking for.

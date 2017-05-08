@@ -1,0 +1,11 @@
+Hello, Can I ask if this RPD is about adding the option in PA to group by 'expected maturity' as per mock up of definitions in original request, or to add DS_EXPECTED_MATURITY to benchmarks?
+Or both as the latter is needed for the former right?
+Morningstar are asking for "effective maturity" and though the link below is from 2012, two clients recently have asked for this in the space of two days (JUPITER_UK and THREADNEEDLE) Their definition https://corporate.morningstar.com/us/documents/MethodologyDocuments/MethodologyPapers/MorningstarFixedIncomeGuidelines.pdf : Their definition https://corporate.morningstar.com/us/documents/MethodologyDocuments/MethodologyPapers/MorningstarFixedIncomeGuidelines.pdf : "Average Effective Maturity Morningstar asks fund companies to calculate and send average effective maturity for each of their fixed-income or allocation funds on a monthly or quarterly basis.
+Average effective maturity is defined as a weighted average of the maturities of the bonds in a portfolio, taking into account all expected mortgage prepayments, puts, and adjustable coupons.
+Maturity is defined as the length of time in years until a debt becomes due for payment.
+If a fund holds futures, other derivatives, or other funds as assets, the average effective maturity should include the weighted impact of the underlying assets.
+Any fixed instrument with less than one year to maturity should be included in the calculation of average effective maturity.
+Please do not send average nominal maturity, defined as a measure of a bond's maturity that, unlike average effective maturity, does not take into account expected mortgage prepayments, puts, or adjustable coupons." As per http://is.factset.com/rpd/summary.aspx?messageId=56006&amp;commentId=3299700 "effective" maturity is equivalent to "expected" maturity.
+Are we still a long way off to adding DS_EXPECTED_MATURITY to these FDB's: ML Barclays iBoxx FTSE Gilts JPM If this is not happening anytime soon can someone confirm the only option is to leverage the 'benchmark' tab in FIAB, let it create new MSL's, then add that MSL to all ACCT's for benchmark analytics hierarchy?
+Any update would be appreciated.
+Dipesh

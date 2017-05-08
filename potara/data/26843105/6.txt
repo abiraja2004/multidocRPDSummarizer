@@ -1,0 +1,8 @@
+I looked through the samples and these all appear to be log dumps, or some kind of computer generated output.
+These should just be attachments.
+@ChrisWerner @RobertGroce it sounds like we're saying 50k.
+Can you sign off on that number given the info above?
+This will need to be communicated to API consumers.
+@ShivamTiwari can you get a list of service accounts (sorted by frequency) that would be affected by this change?
+We'll also need to come up with some way of communicating this in the RTE.
+If you make an edit that causes you to go above the 50k limit we would need to highlight the RTE and say something about attaching a file instead.

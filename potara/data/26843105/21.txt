@@ -1,0 +1,4 @@
+need some opinion on the following this RPD:26104534 , for example, has a table in the content which doesn't have a large content (only 2947 characters text) but 51700 characters in HTML, after processing, it becomes above 90k, as it has a lot of styles.
+TinyMCE adds its own attribute "data-mce-style" to store all the styles.
+should we put a limit on text?
+or is it ok to block similar requests?

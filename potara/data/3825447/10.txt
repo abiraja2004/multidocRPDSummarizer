@@ -1,0 +1,4 @@
+Hi @LucyTancredi - I actually created the "solution" tag, and think it has a lot of value, but still think it doesn't completely satisfy this request.
+A concise problem description (with relevant requirements like FDSW version) along with a concise solution, or list of troubleshooting steps per RPD would add a lot of value (per my 8/23 comment).
+Hi @BrianBishop - is searching for tags enabled?
+I searched for #solution and expected RPD:4138325 to be at the top of my search results, but it's not there.

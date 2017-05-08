@@ -1,0 +1,4 @@
+@MichaelAltmaier - When using Client Portfolio pricing and End of Period holdings, PA feels forward for pricing.
+If I run a PA report from 1/11-1/12, the prices come from 1/12 and 1/13 (see screenshot).
+The proposed change will result in the prices for 1/11 and 1/12 coming from 1/11 and 1/12.
+We are making this change for the following reasons: The current behavior is not intuitive The price fetching is not consistent with the behavior seen for MSL&rsquo;s To fix a long standing bug To ensure consistent behavior among all pricing sources Current Behavior

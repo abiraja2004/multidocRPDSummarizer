@@ -1,0 +1,14 @@
+Hi @MarkSolis -- I've pasted a draft of the client-facing Notify message below.
+I'm not sure whether to include the sentence in bold or not.
+While it provides clarity, I do not want to make the current behavior sound more correct than the new behavior.
+What do you think?
+I've also updated the OA pages that you requested, for the 12-July upload: http://help01b.factset.com/oa2/View.aspx?node_id=13014#calc http://help01b.factset.com/oa2/View.aspx?node_id=16570#prices Thanks!
+******************* Subject: Change to Pricing Methodology for Buy &amp; Hold Portfolios &ndash; 19-Jul-2012 On 19-Jul-2012, a change will be made that may affect prices and returns in your Portfolio Analysis reports.
+The change only affects portfolios in Buy &amp; Hold mode, and has been made to allow for greater consistency among pricing sources in Portfolio Analysis.
+Currently, when you use end-of-period holdings and Client Portfolio pricing, end-of-period pricing is automatically used because prices are tied to shares.
+In Buy &amp; Hold mode, the next day&rsquo;s prices and shares are used as an approximation for end-of-period prices and shares, as portfolio data is only uploaded once a day, generally before the market opens.
+For example, if you run a report from January 11 &ndash; January 12, the prices and shares used are from January 12 and January 13.
+After 19-Jul-2012, when you use end-of-period holdings and Client Portfolio pricing, Portfolio Analysis will not feel forward for price.
+For example, if you run a report from January 11 &ndash; January 12, the prices used will be from January 11 and January 12.
+This will provide more intuitive results than the current behavior.
+If you have questions about this change, contact your PMW specialist or email pmw_support@factset.com.

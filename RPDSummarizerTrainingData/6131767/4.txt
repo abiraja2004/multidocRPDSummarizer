@@ -1,0 +1,5 @@
+@ChrisDudek - Using various FI Database and Pricing sources, there are 41 code versions of the Years to Maturity Grouping.
+For a bunch of them, it will not be as easy as switching the DS_MAT_DATE field with DS_EXPECTED_MATURITY.
+I am looking into whether I can create equivalent codes for Years to Expected Maturity for these Database/Pricing combinations.
+I imagine, there will be some cases where this is not possible.
+I'll add back on when I have more info.

@@ -1,0 +1,1 @@
+To my understanding, QAI shouldn't be sending Priority ID of 1, 2 or 3, I thought the point of this http://tellus/qadocs/Scheduling%20Automation%20workflow.htm is that Priority was assigned automatically based on these rules.

@@ -1,0 +1,9 @@
+This stemmed a disk issue on the audsdev nodes causing our logging process to be killed, this increased the memory footprint of our processes and cause them to start failing over time.
+I was paged about the issue once it became critical on the auds side.
+I'm currently cleaning up the mess.
+Based on the logs it looks like requests went through their failure limits for the local site and then jumped to the B site.
+There is a long initial session establishment timeout that can cause a process to block while processing the event in the shadow queue, even if the process is exiting.
+Just to clarify this is auds shadow mode testing which involves mirroring requests to auds, the auds data is not used and the processing is done in a background thread.
+The auds servers themselves don't really need much disk space except to temporarily store log data in flume, the server with the issue is doing double duty as our management (puppet, graphite, dashboard, builds) server.
+FuTing, every process reads from resources.tlb at startup due to library relationships and global variables.
+To my knowledge no production jobs run on those nodes.

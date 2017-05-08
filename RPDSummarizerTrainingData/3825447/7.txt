@@ -1,0 +1,4 @@
+@LucyTancredi - I'm part of the tagging beta group, and I think tagging is fantastic.
+My suggestion above is to include both a synopsis and a solution for a given RPD.
+This could be optional, but would be really helpful for the reasons I mentioned above.
+If it were exposed in search (perhaps hovering over a search result would show a tooltip with the synopsis) it would really help RPD users find relevant RPDs and quick solutions to their issues (without having to read through lots of RPD text/comments).

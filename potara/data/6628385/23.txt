@@ -1,0 +1,3 @@
+@MichaelAltmaier This is only affecting 2268 clients.
+There are 16,000 PA documents that have these settings (Buy &amp; Hold, End-of-Period Holdings, Client Portfolio pricing).
+Also, Mark pushed this back a week to 19-Jul.

@@ -1,0 +1,3 @@
+Nice stats.
+So I believe that I can differentiate between an engineer's account vs S&amp;C.
+Would it make sense to have S&amp;C auto request SC access while engineers get the prompt?

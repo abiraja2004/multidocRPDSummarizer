@@ -1,0 +1,5 @@
+just to add soem more info about notificationhsitory table.
+Currently we are maintaing only past 6 months data in that table.
+We need reciepients data to be available easily to show them on UI.
+If tehre is easy way to get that from core logs.
+We can use core logging for that

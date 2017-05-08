@@ -1,0 +1,3 @@
+Another thing we should strongly consider is having a mechanism like old Notes RPD used to have that signified that a solution needed to be ported to OA.
+Especially considering that RPD will likely be undergoing retention guidelines, we can't count on it being a persistent source of solutions.
+@LeighRichards @NancyMatthews @LisaKnoll - who owns the process of adding to OA content currently?

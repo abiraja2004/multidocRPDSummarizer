@@ -1,0 +1,8 @@
+@BridieSullivan @MichaelGiordano @MichaelAltmaier - I am attaching the latest document scan.
+I believe this contains all the data that has been requested.
+Let me know if I have missed anything.
+I also made a small change to the alert.
+The bug that we are fixing applies to all fields in client portfolios except for shares.
+For example, if a client uploads Effective Duration in their portfolio, the data would be returned in the same unintuitive manner I described on 6/21 for price fetching.
+The list of affected documents should remain the same.
+As I mentioned yesterday, we would like to have this change installed on 7/19.

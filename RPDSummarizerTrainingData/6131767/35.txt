@@ -1,0 +1,4 @@
+@WalkerSeaver - Kicking this back to you.
+Can you please write up instructions for the Manila PD team to add this as a new column?
+We should add the four versions shown below.
+Portfolio Beginning Expected Maturity - PA_GEN_FI_COL(#PR,#SD,DS_EXPECTED_MATURITY) Portfolio Ending Expected Maturity - PA_GEN_FI_COL(#PR,#ED,DS_EXPECTED_MATURITY) Benchmark Beginning Expected Maturity - PA_GEN_FI_COL(#BN,#SD,DS_EXPECTED_MATURITY) Benchmark Ending Expected Maturity - PA_GEN_FI_COL(#BN,#ED,DS_EXPECTED_MATURITY)

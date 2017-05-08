@@ -1,0 +1,13 @@
+I did some preliminary investigation here, since @RohitZawar is out for the rest of the week.
+We are currently sending ~20,000 notifications per day, with spikes of up to 360 notifications per minute.
+In dev, it looks like we can currently process ~40-60 notifications per minute serially.
+This grows approximately linearly with the number of threads, so if 1 thread can process 60/min, 3 threads can process 180 per minute.
+I wrote a small script to simulate a queue for the month of Sept and Oct 2015.
+In order for there to be no backup of the queue, based on past usage, we need to be able to process ~720 notifications per minute (this leaves some room for unexpected spikes in traffic as well).
+At our current speed we will need a parallelism factor of ~24 in order to process that many messages.
+I would like to get our notification processing speed up to ~3 per second (180 per minute) so that our parallism factor will only need to be 4.
+I also did some preliminary investigation on why Notify.asmx is slow.
+It appears that we are synchronously logging directly to a NotificationHistory table for every notification.
+This is taking over 1 second to execute in prod, because it first selects on the log table to see if a notification has already been logged for that RPD.
+These logs should be sent using the Core logger, or we should greatly improve the NotificationHistory table to have indexes, and to clean up old NotificationHistory logs (so the table isn't so huge).
+FYI @ISDevOps this change is tracking the first multithreaded queue consumer.

@@ -1,0 +1,3 @@
+I was able get a list of CRM ID's from the information in the spreadsheet, but I'm not sure if it's 100% correct; the list only contains 1560 id's.
+Only 1611 of the 16,000 had real email addresses.
+I could create the criteria list now, but I'd like to verify that I have all the correct CRM id's.

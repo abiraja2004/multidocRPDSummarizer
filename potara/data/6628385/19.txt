@@ -1,0 +1,8 @@
+Hi Mike, The way it works now, any client with 00PA2 would be able to see the message, including in the QuickView (hover over blinking tower icon).
+Only those that are subscribed would actually receive an email, and we can't add clients to the subscribed list.
+After the message was posted, consultants could forward it to their affected clients.
+I talked to some other people and we *might* be able to send the message to just the 2268 users, but this would require some further testing to confirm it would work.
+The earliest the testing could be accomplished is end of next week (i.e., message wouldn't be sent until 9-Jul or later).
+We would also need a comma delimited list of all the user emails.
+Let us know how you want to proceed with the client message Thanks!
+Bridie

@@ -1,0 +1,16 @@
+The DevOps team has implemented multithreaded queues in dev.
+We will be using this process as a first test of that system, as it is an ideal use case.
+I plan to roll this out very cautiously, probably only to "RPD Engineers" for the first release.
+@RohitZawar : 1.
+We should see if there are any easy performance gains to be made in notify.asmx, this will benefit both the new and existing notfication process.
+The current notify seems very slow, &lt; 1 message per second.
+I think a good goal would be 3 per second, ~300ms per notify message, but I have only briefly looked at this code.
+Let me know what is feasible here.
+2.
+Please determine our current notify volume, and get more exact numbers on how many notifys we can process per second.
+This will allow us to roll out this feature without having to guess whether we can handle the volume, and will determine the level of parallelism we need the DevOps team to set.
+This will also be very useful info when we switch to the DevOps emailer queue.
+3.
+It looks like there are dev issues with this queue.
+Instead of sending "[please ignore]" messages to the latest commentor, it sends them to the RPD creator.
+Let me know if there is an issue that is not a very quick fix and I will file a separate RPD.

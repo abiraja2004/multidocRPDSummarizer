@@ -1,0 +1,5 @@
+I think we should implement this as a specific whitelist.
+I.e.
+service X, Y, Z can post &gt; 50k if there is some specific reason.
+There's no reason to just blanketly allow any existing account to post &gt;50k, especially if they have never posted a message larger than that before (this should be most accounts).
+We should get this done with .5 it's been pushed back a couple of times already.

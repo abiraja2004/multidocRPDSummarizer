@@ -1,0 +1,6 @@
+@AndrewKlajman @EricBlinn @JeroenRisseeuw @FreddyStrout @ChrisDudek Just wanted to see if there was ASV at risk by not having this as a default grouping/column?
+We want to gauge the priority of this as we have much higher priority items that we are currently working on at the moment (e.g.
+PA3/Projects, etc.).
+Noting that you can use custom formulas (e.g.
+PMWSM) to pull this information from an MSL.
+Best Regards, Leslie

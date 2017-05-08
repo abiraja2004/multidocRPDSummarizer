@@ -1,0 +1,4 @@
+Hi @KenMorris @ChrisWerner Some php modules may need to be modified since only the following fields will be sent to the scheduler: { "task" : [{ "start" : "2017-04-06T03:53:38", "end" : "2017-04-06T04:02:38", "priority" : 4, "testenvironment" : "FPE", "sgbrowsername" : null, "sgbrowserversion" : null, "groupid" : 342763, "eventid" : 161527 } ] } It is easier to set priority to 5 in tellusapi if scheduletype is set to "none".
+This way we don't need to modify other php modules.
+Also we don't need to add a new field to the scheduler.
+-Lilun

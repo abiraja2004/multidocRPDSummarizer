@@ -1,0 +1,5 @@
+The limit has to be on the raw html size.
+If this is a common issue we can increase the limit.
+But 50k of html puts the same strain on the system as 50k plain text.
+Is there anything we can do to decrease the size of the attributes TinyMCE is adding?
+Or remove them if they are not necessary?

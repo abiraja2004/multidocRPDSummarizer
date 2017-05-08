@@ -1,0 +1,11 @@
+@ChrisWerner Do these jobs have higher priorities than any other jobs in the future?
+Right now we have priorities 1,2,3,4.
+1 is the highest and any jobs with priority 1 will be running first at the specified time.
+Online jobs have priority 1.
+If we want to run online jobs before any other jobs, we can set their priorities to 0.
+Then we push other jobs back given the limited number of VMs.
+In the scheduler, I may be able to save those jobs in a file and remove them from the response.
+That way they will not run.
+But most of other jobs will be pushed back since there may be lots of jobs with priority 0.
+Any idea?
+Lilun

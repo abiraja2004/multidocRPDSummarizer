@@ -1,0 +1,5 @@
+Hi Mark, Can you provide a list of the affected clients and PA documents (if available)?
+For changes like this, Consulting has asked for details including username, serial number, contact info, sales/consulting representatives, sales/consulting group.
+This will help us gauge the severity of the change and let the support reps know who to reach out to.
+It looks like a client will not have to do anything for this change, just be aware that the behavior is changing, correct?
+-Bridie

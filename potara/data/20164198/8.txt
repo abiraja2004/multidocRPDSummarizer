@@ -1,0 +1,3 @@
+@SreeDivyaBonagiri thanks for that info, we will preserve this table since it is being used from the application.
+@RohitZawar it looks like this table currently does not have a clustered index, we should investigate adding a clustered index on MessageKey (all of the selects I see on this table are done by messageKey).
+Please still investigate any other slowness you see in the Notify.asmx endpoint, this is just the first thing I saw.

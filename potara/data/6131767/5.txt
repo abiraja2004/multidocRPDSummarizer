@@ -1,0 +1,3 @@
+@ChrisDudek - It looks like most of the pricing databases do not have Expected Maturity fields.
+As a result, I would likely only have to create codes for client pricing sources.
+Do you have a sample document where you created your own custom version of this code?

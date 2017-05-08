@@ -1,0 +1,11 @@
+I would strongly support this suggestion from the PD side, and take it one step further by also summarizing the problem.
+I was thinking it would be useful to have a section in the RPD called "synopsis", where the product expert could concisely summarize the problem and the solution.
+This would have the following benefits: - Save other users time when searching for a similar problem -- as Brandon states, they wouldn't have to read through dozens of comments to figure out if the problem matches their's and they would be able to easily find the solution to the problem.
+- If the problem only relates to a specific FactSet version, Office version, etc., that can be stated in the synopsis.
+- The synopsis would be written by the product expert, and use terms that RPD filers would typically search on, so the RPD will be more likely to be returned in search results.
+- Help eliminate duplicate RPDs (and save PD from addressing those duplicate RPDs).
+- RPD filers often paste in error messages.
+Since images cannot be searched, the relevant RPDs often are not returned in search results.
+The synoposis would contain the error text so that it would be returned in search results.
+This would end up benefiting both those that file RPDs and those that respond to RPDs.
+Thanks, Michelle

@@ -1,0 +1,3 @@
+"data-mce-style" this extra attribute can be avoided if we remove {format: "raw"} in the getContent method.
+this is part of the raw html styles are the major contributor to the request of this kind, therefore, adding another attribute and storing duplicate styles almost doubles the length.
+but even without this extra attribute, it's crossing our set limit.

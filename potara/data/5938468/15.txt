@@ -1,0 +1,5 @@
+This might take a bit longer than expected.
+I assumed that we had an existing inhouse test account that's both secure and has a super client dir.
+After scanning most of our inhouse accounts, I can't find any that have both, so I filed an RPD to either be linked to one or to have one created.
+I'll see how far I can get without an account.
+RPD:6202897

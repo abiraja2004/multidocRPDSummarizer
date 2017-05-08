@@ -1,0 +1,2 @@
+@PoojaSreekanthKaradgi Before start testing, just to make sure, could you please confirm in which enviroment we can go for testting?
+(in FDS App V2 - Staging or CCT - Staging?) thanks in advance, Regards, April

@@ -1,0 +1,5 @@
+audsdeva01 is functional again.
+I've deployed the auds server processes to a cassandra node which is a physical box with much more memory and disk space than the audsdev VM.
+I'll continue doing this going forward until we have production hardware.
+Tomorrow I'll recreate the client-side issue and look at failing faster in shadow mode.
+@GregJordan please re-enable auds shadow mode on the test nodes.

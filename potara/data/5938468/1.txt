@@ -1,0 +1,8 @@
+I like the idea of prompting explicitly for superclient access vs granting it to them by default, in a majority of the cases from the secure client logs, people do not request access to superclient when requesting access to a specific client simply because that client happens to be a member of a superclient.
+If the user chooses to get access to superclient directory as well, how do you plan to do that?
+Getuserinfo() should get you the superclient associated with the client username (if one is present) Once you have the superclient username, you could do the following.
+1.
+Call GRANT_ACCESS() specifying the client username, serial #, contact name, duration and reason.
+2.
+Call GRANT_ACCESS() again specifying the superclient name, 999999 as the serial #, the same contact name, duration and reason as above.
+Was this what you had in mind or something else?

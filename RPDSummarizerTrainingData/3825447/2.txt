@@ -1,0 +1,1 @@
+As a workaround you can use now, you can edit the intial request to put the solution there (which is nice because each email that gets sent out includes the initial request), and/or do the same with the final resolution comment (copy the relevant solution into it).

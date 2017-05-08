@@ -1,0 +1,6 @@
+Fixed the super_client issues and pushed out the changes again.
+Please file new RPDs for any issues or enhancement requests with the script.
+Thanks all.
+NJ C09 S4:[DTRAN.CHAMELEON.STING]$ prog_distribute morph.com Copy to FACTSET_ROOT:[FACTSET]MORPH.COM?
+[Y/N] : y Copying to FACTSET_ROOT:[FACTSET] on local and remote nodes...
+%COPY-S-COPIED, S4:[DTRAN.CHAMELEON.STING]MORPH.COM;8 copied to FACTSET_ROOT:[FACTSET]MORPH.COM;76 (58 blocks) %COPY-S-COPIED, S4:[DTRAN.CHAMELEON.STING]MORPH.COM;8 copied to FDSD08"DTRAN"::FACTSET_ROOT:[FACTSET]MORPH.COM;76 (58 blocks) %COPY-S-COPIED, S4:[DTRAN.CHAMELEON.STING]MORPH.COM;8 copied to FDSA::FACTSET_ROOT:[FACTSET]MORPH.COM;75 (58 blocks) %COPY-S-COPIED, S4:[DTRAN.CHAMELEON.STING]MORPH.COM;8 copied to FDSB::FACTSET_ROOT:[FACTSET]MORPH.COM;76 (58 blocks) Operation completed.

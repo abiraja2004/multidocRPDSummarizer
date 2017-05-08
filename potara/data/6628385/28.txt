@@ -1,0 +1,17 @@
+Hi @MichaelAltmaier I'm not sure what you meant by your last comment, but we're working on the communication (internal and external) right now.
+Mark filed this RPD to request the alert + client message and now Cristina and I are working on both.
+The INTERNAL alert (to be sent as a Critical Change) can be found here - RPD:6687494 The client message can be found in Cristina's last comment on this RPD - comment From the Knowledge Management group and Mark&rsquo;s prospective, the messages are complete and ready to go.
+We are waiting for you (and the other Consulting Managers) to tell us if you need any other information.
+If you need Mark to push back the date, let him know.
+There was a request to send the client message to all 2286 affected users.
+This is possible, but would require testing.
+I outlined the options for sending the client message above (see comment at 2:09 p.m.) Here's a summary of the options: Post to Portfolio Analysis list: Client with 00PA2 would be able to see the message.
+Only those that are subscribed would actually receive an email.
+After the message was posted, consultants could forward it to their affected clients.
+Send message to just the 2268 users.
+This would require some further testing to confirm it would work.
+The earliest the testing could be accomplished is end of next week (i.e., message wouldn't be sent until 9-Jul or later).
+We would also need a comma delimited list of all the user emails.
+It sounds like you prefer the second option, but we need to know so we can schedule the testing first.
+In a nutshell, we (Mark, Cristina, and I) need from you: Are you ok with the new date: 19-Jul Can the internal alert be sent How do you want the client message sent?
+Thanks, Bridie

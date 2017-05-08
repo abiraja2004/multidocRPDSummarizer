@@ -1,0 +1,4 @@
+There was a large lag spike (~.8 hours) in this queue yesterday http://monster.factset.com/?qkuvk .
+@ISDevOps were there any issues around 3pm yesterday with queue?
+All this plugin does is make a web request, I would expect this to timout within ~30 seconds and cause a dead message, but there are no dead messages in this queue.
+This was not a volume/backlog issue, there were only ever 4 messages in the backlog http://monster.factset.com/?0vsr2 .

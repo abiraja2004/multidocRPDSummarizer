@@ -1,0 +1,10 @@
+I spoke with Stan Kwasniewski about this.
+We both believe that proactively emailing clients that are not on the Notify is too alarmist given the potential impact of this change.
+Using email for PA users that have not chosen to opt in is extreme.
+While this change will impact historical results for some, the 2,000+ users that have documents with these settings overstates the amount of users that may really rely on these documents or will be effected.
+A crtical alert change in Notify is warrented.
+It should be communicated this week so that concerned clients will be able to prepare for it.
+PA specialists and consultants should review the client list of those documents with the settings that will see behavior changes and address it with their key users.
+I think the tone of the 6/27 Alert that Cristina used is approriate.
+We want to communicate that this may effect returns in reports that rely on end of period holdings and client prices and that the new behavior shoudl be considered an improvement.
+Short story is that we should not be reaching out proactively to a broader group than those clients that have choosen to recieve emails through Notify.

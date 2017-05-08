@@ -1,0 +1,1 @@
+switched over to IE from Chrome and was able to attach.

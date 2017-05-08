@@ -1,0 +1,2 @@
+I'm resolving this RPD and have asked @MarkGuzman to open a new RPD to track the work he has outlined.
+AUDs shadow mode has been re-enabled on FDSC nodes (define/sys use_auds_shadow_impl 1).

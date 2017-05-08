@@ -1,0 +1,10 @@
+@StanleyKwasniewski - Thanks, I think your version looks good.
+I made a few small changes in the version below (the subject line exceeded the character limit).
+Please let me know when you would like to post it.
+****************** Subject: Change to the Behavior of Holdings as of "End of Period" and &ldquo;Client Portfolio&rdquo; Pricing On 26-Jul-2012, a change will be made that affects how pricing information is fetched in Portfolio Analysis reports which use Buy &amp; Hold mode with holdings as of "End of Period" and the "Client Portfolio" pricing source .
+Currently, when you use Buy &amp; Hold mode with "End of Period" holdings and "Client Portfolio" pricing, prices are fetched from the same day as shares as well as the day after.
+For example, if you run a report from January 11 &ndash; January 12, shares are used from January 12 and prices are used from January 12 and January 13.
+After 26-Jul-2012, when you use Buy &amp; Hold mode with "End of Period" holdings and "Client Portfolio" pricing, Portfolio Analysis will no longer feel forward an extra day for prices.
+For example, if you run a report from January 11 &ndash; January 12, the prices used will be from January 11 and January 12.
+This change is being made so that the behavior of price fetching within reports which use Buy &amp; Hold mode with "End of Period" holdings and "Client Portfolio" pricing is consistent with the behavior of price fetching when using any other Portfolio Analysis pricing source(s).
+If you have questions about this change or would like to know which of your saved reports are affected, contact your PMW specialist or email pmw_support@factset.com.

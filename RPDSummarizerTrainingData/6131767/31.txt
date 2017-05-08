@@ -1,0 +1,2 @@
+@FIPA Manager pushed 1 commit to refs/heads/master for fipa-inf/ds_calc_specs .
+commit 1bfc6f4a3fb145b2b3b164969752bc3993f31f00 &#x000A; Author: FIPA Manager &lt;fi.pa.infrastructure@factset.com&gt;&#x000A; Date: 2016-10-07T14:43:45-04:00&#x000A;&#x000A;&quot;Update by rwaddell: Add Expected Maturity to the standard calcs group RPD:6131767&quot;&#x000A;

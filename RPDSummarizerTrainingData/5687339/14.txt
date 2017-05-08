@@ -1,0 +1,1 @@
+From prior connection to FDSA07, i'm getting in usage log: TEXT:AUDS:Session:Transport Exception: ECONNRESET The connection is timeing out at it goes offbox to Fonix?

@@ -1,0 +1,5 @@
+Hi @RajulShrivastava We have been using the browser maximize logic in the script which maximizes the browser to the maximum available resolution of the machine.
+As the node machine resolution is lesser than the expected, the browser also being maximized to the same resolution hence the test cases are failing.
+I'll try to set the browser resolution to '1280x1024' though the code.
+If that works we have to use this logic every time while launching the browser.
+CC @LilunCao Thanks, Shiva

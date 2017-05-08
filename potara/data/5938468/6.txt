@@ -1,0 +1,4 @@
+Thanks for the feedback.
+My comments were made based on the usage of secure client access and I was suggesting one additional question about superclient rather than blindly giving it to them.
+If someone does not know what superclient is, they should probably not be accessing it.
+In NJ, for the last 3 years, there were 109,625 access requests out of which 1327 were for super clients (about 1%) In VA, for the last 3 years, there were 94980 access requests out of which 2570 were for super clients (about 3%) Also, I'm all for reducing clutter, so, if there are more suggestions about the alleged cluttered process especially as it pertains to requesting secure client access, I'm all ears.

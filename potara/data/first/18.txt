@@ -1,0 +1,1 @@
+Yes, the resolution comment is editable (by anyone, I believe - it will display who edited it last).

@@ -1,0 +1,9 @@
+Hi @RajulShrivastava @KenMorris I haven't found any option in node configuration to set the default browser resolution.
+I did some research.
+Many people have faced the resolution issue and posted those questions, but they never got any working solutions.
+I did testing on our grid.
+Seems we can reach higher resolution on Windows Server 2008 when the nodes are launched as windows services, but we can not reach higher resolution on Windows Server 2012 when the nodes are launched as windows services.
+The only working way I found on Windows Server 2012 is to launch the nodes like any desktop apps (on the command line).
+The problem with this is if the account used to start the nodes is logged out, then all the nodes would be stopped.
+Maybe we can take the same way as Thief grid for those nodes on Windows Server 2012.
+cc @ShivaKumariMandala -Lilun

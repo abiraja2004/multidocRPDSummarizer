@@ -1,0 +1,19 @@
+This is interesting but neither example is really the same as a 'solution' to the RPD.
+Karl's example feels like he wants to flag a 'workaround' as something more obvious to consumers, but discussion is continuing toward the actual fix.
+In Karim's example, he specified an ETA, so it would be normal for discussion to continue until the fix.
+The issue of 'ETA' is an ongoing issue seem by RPD.
+I can tell by looking at a PDIS rpd when it is expected to be completed, but there is no consitency.
+Karim made a comments, some users use 'estimated completion date', PDIS uses associated 'Build' RPDs, etc.
+@LucyTancredi I think what would be more helpful here is some priority to the display of the comments.
+Basically, a way to digest the full RPD thread.
+Right now we load all comments and collapse all but the top and bottom 2 (or last unread).
+But another option would be to no load all comments, selectively suppress comments that are less relevant.
+For instance it could display: Opening comment ...
+10 additional comments ...
+(ie actually display this text as a collapsed section) A comment discussing a workaround &hellip; 20 additional comments &hellip; (ie actually display this text as a collapsed section) A comment discussing an ETA &hellip; 20 additional comments &hellip; (ie actually display this text as a collapsed section) 2 nd to last comment Last comment Or if there are more unread comments than that we could have more expanded by default.
+Here&rsquo;s an example in QAI doing something similar: http://is.factset.com/justifier/TestManager/TestRun/2617176#/37126453 I don't know if we just have a simple up/down vote system like so many other sites (Stackoverflow etc), or let RPD Product owners or Assignees more directly control what is up voted.
+For instance the assignee could provide a work around or ETA and the owner could clarify or provide ETA.
+Or if there are standard 'categories' of these upvotes (say, 'workaround', 'eta', solution'), then these could be chosen and tagged directly to the comment, even as regular 'tags' now.
+We could just put a bit more structure around it.
+This would also help with the 100+ comment large RPDs that are very slow to open.
+I think this is something we should/will consider in the UI simplification.

@@ -1,0 +1,8 @@
+@MichaelGiordano - I am attaching the new document scan which flagged any document that uses End of Period Holdings, Client Portfolio Pricing, and either a portfolio or benchmark in B&amp;H mode.
+I checked a few of the documents that were included in the old scan but not included in this one.
+The ones I checked did not have any portfolios or benchmarks saved in the document.
+As a result, they were excluded from the new scan.
+We have no way of knowing what type of portfolios clients are using in these documents.
+It is very possible they are running buy and hold portfolios/benchmarks in these documents that we are now excluding.
+I would recommend using the scan from my last post on 6/27 since we would be alerting more clients than necessary as opposed to possibly missing some clients.
+Let me know if you have any questions.

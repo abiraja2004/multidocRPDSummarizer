@@ -1,0 +1,5 @@
+@MichaelAltmaier - I have confirmed we can use FactSet Notify to email all the users.
+@RyanClark - the attached spreadsheet has serial numbers and email addresses.
+Is that enough for you to do a saved Target list so we can send a notification to these affected users.
+When do we want to plan to send this?
+Thanks!

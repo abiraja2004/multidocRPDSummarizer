@@ -1,0 +1,3 @@
+Should we use the word "fetch" or "retrieve"?
+Fetch came across as more FactSet-speak to me.
+Thoughts?

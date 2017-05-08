@@ -1,0 +1,2 @@
+Hi @LilunCao - We have Only one version in FPE and it will be always latest version, as it automatically upgrades .
+But in future we are planning to install it dynamically based on user selection.

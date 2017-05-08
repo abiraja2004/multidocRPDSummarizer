@@ -1,0 +1,5 @@
+Trying to assess the impact of this to productions/clients, as I'm not too familiar with AUDS and it's interactions with batch queues in FDSA07 and FDSA08 A things questions I have in my mind: 1 - I can understand why this affected online (from reading TLB files offbox).
+But this also hanged ORCA and basic FQLF, Would this affect client Cornerstone jobs that run on these nodes?
+2 - Would this impact production jobs that tries to evaluate an FQL code (eg Price or Symbology codes)?
+Or write to data in FDB?
+or Jobs trying to read through FFS?

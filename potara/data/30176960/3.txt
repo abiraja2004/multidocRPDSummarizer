@@ -1,0 +1,5 @@
+Thanks a lot @EymeAnnMathew !
+@ShivaKumarMacharla On the grid node, the maximum resolution that can be reached is 1920x1200.
+But the default resolution used may be lower.
+I tested prod grid and printed out the default resolution from the ruby script, I got #&lt;struct Selenium::WebDriver::Dimension width=1004, height=748&gt; After I set wd = Watir::Browser.new(:remote, url: " http://tellusdevb03.pc.factset.com:4444/wd/hub ", :desired_capabilities =&gt; caps) wd.driver.manage.window.move_to(0, 0) wd.driver.manage.window.resize_to(1280, 1024) in the ruby script and ran it, I got the following printed resolution #&lt;struct Selenium::WebDriver::Dimension width=1280, height=1024&gt; #&lt;struct Selenium::WebDriver::Point x=0, y=0&gt; I don't know whether this can be specified in the script or not @ShivaKumarMacharla ?
+Thanks, Lilun

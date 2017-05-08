@@ -1,0 +1,2 @@
+@LilunCao - can't we make it so that FP matches what SG has and then add version 56 to Chrome?
+can't they pull from the same list so that we don't have to update 2 places all the time going forward?

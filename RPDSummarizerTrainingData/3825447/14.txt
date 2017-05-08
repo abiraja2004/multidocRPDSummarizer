@@ -1,0 +1,22 @@
+@BrianBishop - Thanks, that's helpful.
+Searching for tags will also be very helpful.
+@LucyTancredi - The comment tagged with #solution would likely just be the solution to the RPD, and not describe the problem.
+Simply tagging one comment with "solution" will help in some cases, but won't be enough in the following cases: - In many cases, a solution is spread over multiple comments (e.g.
+an engineer/PD suggests trying A to solve the issue, then the user replies saying that partially helped, so they suggest trying B, etc.) -- one concise comment eloquently stating the solution or troubleshooting tips, along with other relevant info (e.g.
+FDS minimum version requirement, or CACCESS restrictions, or anything else) would be more helpful.
+- Sometimes it's hard to discern whether the problem in the RPD is the same issue that you're having.
+The filer might think the issue is X, when really after troubleshooting, we discover it is Y.
+The synposis would state the problem in a way that makes it relevant for everyone (not just a specific template for example).
+- A single RPD could have solutions to multiple issues, and the initial problem description might not cover all of the issues discussed in the RPD.
+I think its nice to be able to read a concise problem description and solution -- as opposed to having to scan through an RPD to find the problem, and then separately reading the solution.
+As I said above, if this could be exposed through the hover in search results, it would likely save users a lot of time.
+For example, in this RPD:4138325 , the comment tagged "solution" doesn't explain what the problem is.
+If you read the lengthy problem, it is specific to FTSE NAREIT Indices.
+The RPD has solutions to multiple problems (see the 2 comments tagged "solution").
+One deals with formatting one of the chart axes, and the other with a workaround to charting IDs that work with time and sales codes.
+I could spend 5 minutes trying to figure out what the problem is, and whether my problem is the same or not.
+A synopsis could explain the various problems/solutions covered in the RPD.
+For example, if you're trying to format the x-axis of an intraday chart to only include rounded half-hour times, then do XYZ.
+I am not proposing forcing fielded data.
+The author of the synopsis could add whatever information s/he thinks is relevant.
+Thanks, Michelle

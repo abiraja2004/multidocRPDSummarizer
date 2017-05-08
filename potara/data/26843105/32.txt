@@ -1,0 +1,5 @@
+@KrishnaJain There were some issues reported where employees were not able to remove the default assignee while creating a new rpd and that change was rolled back as part of RPD:28521183 and also there weren't any changes done in specific to css rpd products.
+The change we introduced it , we just rolled it back nothing new done as part of this build.
+And also please file new rpd for any feedback related to rpd release or features because this information is unrelated.
+@PhaniKarthikSomayajula @KrishnaJain coming to limit on message size as Chris explained here http://is.factset.com/rpd/summary.aspxmessageId=30586442&amp;commentId=30590370 we will review it in our weekly meeting whether we can allow more limit for previously filed rpds before this change is released.
+I have added both of you in that rpd please follow that for more updates -Surekha

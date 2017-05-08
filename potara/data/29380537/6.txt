@@ -1,0 +1,7 @@
+Hello @PoojaSreekanthKaradgi , I have tested in FDS App V2 - Staging for the Name change date and Termination dates issue.
+I have tested the below scenarios and all are working as expected.
+Name Change Dates: 1) For Name changes it is not accepting the dates older than Launch date and giving an error message - Fixed 2) For funds without Launch date it is taking 01/01/1960 as default and it is accepting name change dates from 01/01/1960 - Fixed 3) For Future Name changes it is not accepting the dates older than today's date - Fixed Termination Dates: For Termination dates portmas is considering Launch date and DLR as criteria.
+1) Portmas is not allowing us to terminate the fund with date before launch date - Fixed 2) If the Fund is having DLR the tool will accept termination date after the DLR date - Fixed 3) For future terminations the tool is not accepting report date older than today's date.
+- Fixed Please find the attached testing document for your reference.
+Can we please deploy the changes into production.
+Thanks, Ramesh.

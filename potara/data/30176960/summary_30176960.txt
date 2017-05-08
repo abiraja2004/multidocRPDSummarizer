@@ -1,0 +1,1 @@
+[u'hi @ shivakumarmacharla what we did on the node, the maximum resolution 1920x1200 for the account running the node.', u"also we don't have any node configuration option to set the default resolution.", u'seems running the nodes are launched as windows services.']

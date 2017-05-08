@@ -1,0 +1,5 @@
+I think the parallelism required now we meant ~12-15 because we want a 3-4x increase to get to ~4.
+I saw Bryan saw we do a SELECT first before INSERTing.
+If we know what the uniqueness is supposed to be there is no reason to do this.
+That is whatever we're selecting, say messageId and date, if we UNIQUE Or primaryKey this we can just call INSERT and SQL will not insert duplicate records.
+You can decide whether to try/catch and handle the DuplicateKey 'error', or we could just supress this with IGNORE_DUP_KEY = ON (note this still prevents duplicate records, just doesn't 'error').

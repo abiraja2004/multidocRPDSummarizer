@@ -1,0 +1,8 @@
+Hi @ChrisWerner @KenMorris , @JosephHwang and I discussed how to implement this.
+We figured out a way to avoid creating cron jobs for those jobs to be load tested after normal scheduling.
+You can add a new field to the request: something like "SkipCron": "true".
+Priority should be set in the normal way.
+Scheduling will be done as usual.
+After that, tellus framework will check this field.
+If it is set to "true", then tellus framework will not create cron job for that; Otherwise treat it like a normal job.
+-Lilun

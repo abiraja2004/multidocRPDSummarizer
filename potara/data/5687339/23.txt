@@ -1,0 +1,13 @@
+Sure, in this case the client will try to connect to a box 3 times before failing the request.
+It will prefer the same site as the client but will fail to other available servers if there are no "local" servers available.
+Currently we don't remove the failing server from the pool, so subsequent requests will go through the same process if we are in a "zombie" state on the server-side.
+We expect that a failing server will either die or be killed by monit (due to memory use or cpu use).
+A dead server is automatically removed from the client's list of servers via zookeeper callback.
+Session establishment is a special case and tries a bit harder to succeed, as all requests to private/secured content will fail without valid session credentials.
+All of these requests get put into the shadow queue to be processes by the shadow thread.
+The shadow thread will not attempt to process all requests in it's cue at shutdown, this is done to prevent it from delaying existing jobs.
+The only way it can cause a delay is if it is actively processing a queue entry at the time of shutdown.
+The shutdown code will block waiting for the shadow thread to complete it's current task.
+A task which can be waiting for retries to occur.
+ï»¿It's worth noting that if there are no servers available in the client's pool and zookeeper support is enabled then it will attempt to fetch servers from zookeeper 10 times if it needs to fulfil a request.
+I'll follow up with you tomorrow.

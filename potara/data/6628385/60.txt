@@ -1,0 +1,2 @@
+@MichaelGiordano : I believe the way Mark created his 6/27 spreadsheet was to take the serial numbers produced by Engineering, download the serial number from CRM screening along with any other data that he thought would be useful, and use a VLOOKUP in order to pull in that data by serial number.
+If the name of the user is a CRM screening field, could consultants use this in order to pull in the user's name (and anything else they may like)?

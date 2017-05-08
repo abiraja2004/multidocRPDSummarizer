@@ -1,0 +1,1 @@
+[u'we need to check if queues processer is affecting notifications before enabling notifications via queue for whole factset', u'It looks like there are dev issues with this queue.', u'If tehre is easy way to get that from core logs.']

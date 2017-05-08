@@ -1,0 +1,7 @@
+Dan Tran has submitted a code change (Change:1588607) which references this RPD.
+Description: All secure client requests using the Secure Client Access Dialog (you might remember me, er, it from such apps like "The Secure Client Portal" and "File Manager") now automatically detects if a super client account exists and if so it will automatically request access to that at the same time.
+This will happen with initial secure access requests, as well as 1-hour and 2-hour extensions.
+Hawt.
+Coming soon to a terminal near you: similar functionality will be added to the commandline version of morph in the near future.
+Get down!
+RPD:5938468

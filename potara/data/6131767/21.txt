@@ -1,0 +1,5 @@
+Adding MAWER (who is on trial) that would like to have "Years to Expected Maturity" as a column and grouping in PA.
+I used the code provided in Chris's comment above which worked for the portfolio; however, the client on trial uses DEX indices.
+Would it be possible to add this for the DEX indices?
+Thank you.
+cc: @FarazFarzaneh @PatReilly @AaronHogue @BryanWatts Best regards, Ben

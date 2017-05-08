@@ -1,0 +1,4 @@
+Hi @ChrisWerner @LucyTancredi @RobertGroce @SreeDivyaBonagiri @BryanEhrlich Let me know if this should be filed separately, but I would also find it useful to have a "Current Status" tag or comment for longer term enhancements.
+For example this RPD where people are no longer seeing my comment http://is.factset.com/rpd/summary.aspx?messageId=22581451&amp;commentId=27852238 about our ETA for that risk model being the end of January.
+It would be handy if people could just know where to look for the current status of an open RPD.
+Thanks Karim

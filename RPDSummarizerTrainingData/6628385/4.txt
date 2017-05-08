@@ -1,0 +1,5 @@
+@BridieSullivan - Here is the list of usernames and documents that are using Client Portfolio Pricing and End of Period holdings.
+This list should contain every document that will be impacted, but some of these documents may not see any change.
+The change only affects OFDB's and CSTM's that are being run in PA in 'Holding's Only' mode.
+If any Blended Benchmark, Fixed Dollar Weighted, or Floating methodology CSTM's are set to OMS mode, they will also be impacted.
+OMS is not supported for these methodologies, so they fall back to the 'Holdings Only' mode behavior.

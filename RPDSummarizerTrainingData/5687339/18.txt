@@ -1,0 +1,3 @@
+no client batch jobs run on either fdsa07/8.
+unless the production job is specifically submitted to run on fdsa07/8 (except express - and I'm having a discussion with vms team about that), it will not land on these nodes.
+Jobs submitted to sys$batch (which is the default batch queue) will not execute on fdsa07/8.

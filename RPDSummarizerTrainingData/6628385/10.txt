@@ -1,0 +1,4 @@
+Client Central Team - I used CRM screening to put together the spreadsheet in my previous post.
+To get the serial numbers Bridie requested, I need to be able to return usernames with the client specific number appended at the end (i.e.
+1STBANK_STPL.01).
+Is there a code that will return this data?

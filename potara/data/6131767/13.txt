@@ -1,0 +1,6 @@
+Please see also RPD:8408268 Adding IKANO_LUX who would like to see expected inflation.
+I was able to use the formula provided by Crhis, but for the benchmark, no DS_EXPECTED_MATURITY field exisists.
+Can we please add this to the Barclays indices (at the minimum).
+Expected maturity is quite important for the client, so I hope we can add at least the DS field, so we can pull the figure using the same formula and replace the PMWSM_FI code with an FDB code.
+By this means, we do not require a full PA intergration add the momement.
+Best, Jeroen

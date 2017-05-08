@@ -1,0 +1,3 @@
+Hey @MichaelWoods -- there aren't any logs kept on my end at the app level, but all of the requests should be seen by the grant access tool, so @PrasannaVenkatesh might be able to shed some light there.
+No issues have been reported so that's a good sign.
+Thanks all.

@@ -1,0 +1,7 @@
+I agree with what Rob said.
+What are some of the use cases that are using between 50-100k and 100-500k?
+I'm just wondering what we lose by not support these.
+If these ALL see like logs/service posts then we can just limit to 50k and be done.
+We should make all APIs return 400s and fail the request when this happens.
+We can update docs to reflect that they should provide a URL/link to their document if they need more room.
+.3 is going to get large but I'm going to add this as a low/nice to have and we'll tackle for sure by .4.

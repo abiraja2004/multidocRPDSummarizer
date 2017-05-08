@@ -1,0 +1,2 @@
+Looks like the queue cannot keep up with the current message volume: When I looked the queue was ~4 minutes behind.
+This definitely needs to be revisited.

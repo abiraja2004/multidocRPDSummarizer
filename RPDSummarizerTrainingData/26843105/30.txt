@@ -1,0 +1,3 @@
+Also we realize that some of the RPD products are not auto assigned to Corporate Support Services - is this change also included in this release ?
+Can you pls list out what all RPD products were included in this release which are not going to be auto assigned to CSS anymore ?
+@CorporateSupportServices FYI Thanks KK
